@@ -1,0 +1,484 @@
+{
+  "submit": [
+    {
+      "companyName": "中國信託商業銀行",
+      "jobName": "2025 中國信託學期實習計畫 Rising Star+",
+      "jobCode": "8t970",
+      "custNo": "3077208000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "元大金融控股股份有限公司",
+      "jobName": "【在學生實習】元大證券-國際金融種子實習計畫（國際法人部）-｛現正招募中｝",
+      "jobCode": "8siz4",
+      "custNo": "70796749000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "元大金融控股股份有限公司",
+      "jobName": "【在學生實習】元大證券-國際金融種子實習計畫（金融交易部）-｛現正招募中｝",
+      "jobCode": "7w4n3",
+      "custNo": "70796749000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "元大金融控股股份有限公司",
+      "jobName": "【在學生實習】元大證券-股務代理部產學計畫  -｛現正招募中｝",
+      "jobCode": "8i1db",
+      "custNo": "70796749000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "元大金融控股股份有限公司",
+      "jobName": "【在學生實習】元大證券-國際金融種子實習計畫（計量交易部-資訊類）-｛現正招募中｝",
+      "jobCode": "8mx6t",
+      "custNo": "70796749000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "元大金融控股股份有限公司",
+      "jobName": "【在學生實習】元大證券-理財菁英實習專案(學元計畫)",
+      "jobCode": "7fnet",
+      "custNo": "70796749000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "凱基金融控股股份有限公司",
+      "jobName": "【凱基銀行】企業實習_數據應用分析部資料科學家實習生",
+      "jobCode": "8qvrg",
+      "custNo": "70827383000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "凱基金融控股股份有限公司",
+      "jobName": "【凱基金控】2026企業實習_AI開發實習生",
+      "jobCode": "8tv8v",
+      "custNo": "70827383000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "凱基金融控股股份有限公司",
+      "jobName": "【凱基金控】2026企業實習_Digital Service Intern",
+      "jobCode": "8tv9e",
+      "custNo": "70827383000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "凱基金融控股股份有限公司",
+      "jobName": "【凱基金控】2026企業實習_Web3 Intern",
+      "jobCode": "8tv9m",
+      "custNo": "70827383000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "凱基金融控股股份有限公司",
+      "jobName": "【凱基金控】2026企業實習_系統整合開發實習生",
+      "jobCode": "8tv9x",
+      "custNo": "70827383000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "凱基金融控股股份有限公司",
+      "jobName": "【凱基金控】2026企業實習_數據商業分析實習生",
+      "jobCode": "8tvah",
+      "custNo": "70827383000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "雲端策略專案經理實習生 (Cloud Strategy Project Manager Intern)_I00020773",
+      "jobCode": "8njcy",
+      "custNo": "70827406000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "新技術研究實習生_I00021490",
+      "jobCode": "8oz42",
+      "custNo": "70827406000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "解決方案架構科 - 專案管理實習生(數數發中心, DDT)_I00014739",
+      "jobCode": "87vxt",
+      "custNo": "70827406000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "雲端產品經理實習生 (Cloud Product Manager Intern)_I00020774",
+      "jobCode": "8njcx",
+      "custNo": "70827406000",
+      "messageKey": "TRADE_INTERN",
+      "message": "trade"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "金融創新推動＿實習生_I00020971",
+      "jobCode": "8nyfb",
+      "custNo": "70827406000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "實習 - 資料科學分析師 Data Scientist R&D Intern - 人工智慧科技 (數數發中心, DDT)_I00015974",
+      "jobCode": "87v0h",
+      "custNo": "70827406000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "技術研發實習生_I00017430",
+      "jobCode": "8cwiv",
+      "custNo": "70827406000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "企業架構科 - 領域架構實習生_I00014937",
+      "jobCode": "87w8v",
+      "custNo": "70827406000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "雲端開發工程師實習生 (Cloud Developer Intern)_I00023071",
+      "jobCode": "8tbxe",
+      "custNo": "70827406000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "開源技術研究實習生_I00021531",
+      "jobCode": "8p4li",
+      "custNo": "70827406000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "資安聯防-實習生_I00020810",
+      "jobCode": "8nhgf",
+      "custNo": "70827406000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "區塊鏈工程實習生 Blockchain Engineering Intern(數數發中心, DDT)_I00016730",
+      "jobCode": "89yw3",
+      "custNo": "70827406000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "企業架構-技術架構實習生(數數發中心, DDT)_I00015913",
+      "jobCode": "87ewb",
+      "custNo": "70827406000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "綠色金融科技-越南文翻譯實習生(數數發中心, DDT)_I00020234",
+      "jobCode": "8lblj",
+      "custNo": "70827406000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "永豐商業銀行股份有限公司",
+      "jobName": "《實習》金融市場處-財務行銷實習生",
+      "jobCode": "8f44j",
+      "custNo": "86517384000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "永豐商業銀行股份有限公司",
+      "jobName": "《實習》法金業務實習生",
+      "jobCode": "8tewj",
+      "custNo": "86517384000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "永豐商業銀行股份有限公司",
+      "jobName": "《第29屆卓越人才實習就業計畫》儲備業務人員",
+      "jobCode": "8i12s",
+      "custNo": "86517384000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "永豐商業銀行股份有限公司",
+      "jobName": "《第29屆卓越人才實習就業計畫》綜合作業人員",
+      "jobCode": "8i13y",
+      "custNo": "86517384000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "永豐商業銀行股份有限公司",
+      "jobName": "《第29屆卓越人才實習就業計畫》分行作業人員-台南",
+      "jobCode": "8i577",
+      "custNo": "86517384000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "永豐商業銀行股份有限公司",
+      "jobName": "《第29屆卓越人才實習就業計畫》分行作業人員-台中",
+      "jobCode": "8tzqq",
+      "custNo": "86517384000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "永豐商業銀行股份有限公司",
+      "jobName": "《第29屆卓越人才實習就業計畫》分行作業人員-雙北",
+      "jobCode": "88vls",
+      "custNo": "86517384000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "永豐商業銀行股份有限公司",
+      "jobName": "《第29屆卓越人才實習就業計畫》分行作業人員-桃竹區",
+      "jobCode": "8i132",
+      "custNo": "86517384000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "CMoney集團",
+      "jobName": "量化研究員實習生",
+      "jobCode": "8ptna",
+      "custNo": "23606557000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "口袋證券",
+      "jobName": "社群行銷企劃實習生",
+      "jobCode": "8rl8l",
+      "custNo": "23470685000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "口袋證券",
+      "jobName": "客戶服務實習生",
+      "jobCode": "8tdy6",
+      "custNo": "23470685000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "全曜財經",
+      "jobName": "【數據應用部】財經數據維運實習生(長期) System Analyst Intern｜部門(JIRA492)",
+      "jobCode": "7kgwo",
+      "custNo": "80004909000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "全曜財經",
+      "jobName": "專案營運實習生｜消費理財事業(JIRA504)",
+      "jobCode": "8jekx",
+      "custNo": "80004909000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "全曜財經",
+      "jobName": "【工程部】網管實習生 MIS intern｜部門(JIRA411)",
+      "jobCode": "78d9f",
+      "custNo": "80004909000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "全曜財經",
+      "jobName": "【設計部】視覺設計實習生 Visual Design Intern｜部門(JIRA593)",
+      "jobCode": "8t936",
+      "custNo": "80004909000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "全曜財經",
+      "jobName": "【工程部】資料輸入人員 key-in intern｜法人(JIRA449)",
+      "jobCode": "8blvt",
+      "custNo": "80004909000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "復華證券",
+      "jobName": "【復華投信 2026 Internship Program】投資研究類實習生",
+      "jobCode": "8735q",
+      "custNo": "16085763000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "美好證券",
+      "jobName": "人力資源部_實習生(HR Intern)",
+      "jobCode": "82e2f",
+      "custNo": "22957098000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "美好證券",
+      "jobName": "法務部_實習生(Legal Intern)",
+      "jobCode": "83wj8",
+      "custNo": "22957098000",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "富邦綜合證券",
+      "jobName": "富邦證券-暑期實習生-AI訓練後校驗人員",
+      "jobCode": "8m1rp",
+      "custNo": "22957301000",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "MMA PAN ASIA FUND",
+      "jobName": "Quantitative Research Intern",
+      "jobCode": "86i9l",
+      "custNo": "130000000025418",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "進遠有限公司",
+      "jobName": "美股市場研究學生實習(Buyside Research Analyst Internship, SUBMIT A FORMAL CV TO: HR@VERTIPOINT.COM TO BE CONSIDERED, 須提供英文履歷至信箱)",
+      "jobCode": "79mul",
+      "custNo": "130000000136987",
+      "messageKey": "FINANCE_INTERN",
+      "message": "FINANCE"
+    },
+    {
+      "companyName": "進遠有限公司",
+      "jobName": "Quant Research Intern  (MUST SUBMIT A FORMAL CV TO: HR@VERTIPOINT.COM TO BE CONSIDERED)",
+      "jobCode": "7ahq9",
+      "custNo": "130000000136987",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "豐利資本",
+      "jobName": "研究助理實習生",
+      "jobCode": "870ju",
+      "custNo": "130000000220519",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    },
+    {
+      "companyName": "豐利資本",
+      "jobName": "美股研究助理實習生",
+      "jobCode": "8su1k",
+      "custNo": "130000000220519",
+      "messageKey": "QUANT_INTERN",
+      "message": "QUANT"
+    }
+  ],
+  "error": [
+    {
+      "companyName": "凱基金融控股股份有限公司",
+      "jobName": "【凱基投信】2025 暑期實習生",
+      "jobCode": "8lokq",
+      "custNo": "70827383000",
+      "reason": "template_not_found"
+    },
+    {
+      "companyName": "凱基金融控股股份有限公司",
+      "jobName": "【凱基金控】2026企業實習_雲端數位實習生",
+      "jobCode": "8tva4",
+      "custNo": "70827383000",
+      "reason": "template_not_found"
+    },
+    {
+      "companyName": "凱基金融控股股份有限公司",
+      "jobName": "【凱基銀行】2026企業實習_個金作業實習生",
+      "jobCode": "8ono6",
+      "custNo": "70827383000",
+      "reason": "template_not_found"
+    },
+    {
+      "companyName": "凱基金融控股股份有限公司",
+      "jobName": "【凱基銀行】2026企業實習_分行櫃員實習生(全台分行)",
+      "jobCode": "8hq7v",
+      "custNo": "70827383000",
+      "reason": "template_not_found"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "解決方案架構科 - 趨勢創新研究實習生(數數發中心, DDT)_I00017830",
+      "jobCode": "8gbg9",
+      "custNo": "70827406000",
+      "reason": "template_not_found"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "部門行政管理實習人員 - 商業分析 (數數發中心, DDT)_I00017710",
+      "jobCode": "8fflz",
+      "custNo": "70827406000",
+      "reason": "template_not_found"
+    },
+    {
+      "companyName": "國泰金控_國泰金融控股股份有限公司",
+      "jobName": "解決方案架構科 - 技術研究實習生(數數發中心, DDT)_I00014648",
+      "jobCode": "87w5d",
+      "custNo": "70827406000",
+      "reason": "template_not_found"
+    },
+    {
+      "companyName": "永豐商業銀行股份有限公司",
+      "jobName": "《實習》總經理辦公室-活動規劃實習生",
+      "jobCode": "8tewq",
+      "custNo": "86517384000",
+      "reason": "template_not_found"
+    },
+    {
+      "companyName": "永豐商業銀行股份有限公司",
+      "jobName": "《實習》人力資源處-訓練規劃實習生",
+      "jobCode": "8dk5s",
+      "custNo": "86517384000",
+      "reason": "template_not_found"
+    },
+    {
+      "companyName": "野村證券",
+      "jobName": "Technology Intern",
+      "jobCode": "6gq8p",
+      "custNo": "16831831000",
+      "reason": "template_not_found"
+    }
+  ]
+}
