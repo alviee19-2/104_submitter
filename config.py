@@ -22,7 +22,7 @@ SEARCH_KEYWORDS = ["實習", "intern", "在學"]
 SUBMIT_API_URL = MAIN_URL + "/job/ajax/apply"
 
 #履歷template
-DEFAULT_APPLY_MESSAGE = "您好，我叫吳哲寬，近日得知貴公司在徵人，希望能有參加面試的機會，謝謝！"
+DEFAULT_APPLY_MESSAGE = ""
 QUANT_INTERN = "QUANT"
 FINANCE_INTERN = "FINANCE"
 ACCOUNTING_INTERN = "AACOUNTING"
